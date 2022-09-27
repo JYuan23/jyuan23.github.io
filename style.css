@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.timer{
+    font-size: 32px;
+}
+
